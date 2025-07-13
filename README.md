@@ -88,3 +88,6 @@ I’m Nandini Kokare, a Computer Engineering graduate passionate about solving p
    ```bash
    git clone https://github.com/nandinikokare/your-portfolio-repo.git
    cd your-portfolio-repo
+
+   <img width="1432" height="722" alt="Screenshot 2025-07-13 at 12 40 19 PM" src="https://github.com/user-attachments/assets/929b06e6-76f6-420b-8b42-acc884cd0217" />
+
