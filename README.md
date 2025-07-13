@@ -76,7 +76,6 @@ I’m Nandini Kokare, a Computer Engineering graduate passionate about solving p
 ## 📬 Contact
 
 - 📧 Email: kokarenandini93@gmail.com  
-- 📞 Phone: +91 9156865167  
 - 🌍 Location: Pune, Maharashtra, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nandini-kokare-909b8b212/)  
 - 🐙 [GitHub](https://github.com/nandinikokare)
